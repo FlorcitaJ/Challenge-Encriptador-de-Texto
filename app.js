@@ -66,7 +66,7 @@ function asignarImagen(){
     let divImagenInicial=document.getElementById('imagen_inicial');
     let imagenInicial=document.createElement('img');
 
-    imagenInicial.src='./img/imagenInicial.jpg';
+    imagenInicial.src='img/imagenInicial.jpg';
     imagenInicial.alt='niño exploando letras';
     imagenInicial.width='50px';
     imagenInicial.height='50px';
